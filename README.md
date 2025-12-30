@@ -13,6 +13,9 @@
 
 <p align="left">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" height="200"/>
+  <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shehanpeiris4803&label=Profile%20views&color=00FF00&style=flat" alt="Profile Views" />
+</p>
   
   ## 🔥 ABOUT ME
   
@@ -29,9 +32,7 @@
   </p>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shehanpeiris4803&label=Profile%20views&color=00FF00&style=flat" alt="Profile Views" />
-</p>
+
 
 ## 🌐 Connect with Me
 
