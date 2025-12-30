@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=shehanpeiris4803&label=Profile%20views&color=0e75b6&style=flat" alt="shehanpeiris4803" />
 </p>
 
-<!-- GitHub Trophies - Remove comment if you want to use this -->
+<!-- Remove this comment if you want GitHub Trophies -->
 <!-- <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehanpeiris4803" alt="shehanpeiris4803" /></a></p> -->
 
 ## 🔥 About Me
@@ -14,7 +14,10 @@
 - 🔒 **Exploring network security, penetration testing & Linux systems** 💻
 - ⚡ **Building skills one exploit at a time** 🚀
 - 📚 **Always learning new tools, techniques, and attack vectors** 🛡️
-- 📩 **How to reach me:** `shehandeshapriya2005@gmail.com`
+
+## 📬 Contact
+
+📩 **Email:** `shehandeshapriya2005@gmail.com`
 
 ## 🌐 Connect with Me
 
@@ -71,16 +74,19 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
+### 📈 Top Languages
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehanpeiris4803&show_icons=true&locale=en&layout=compact&theme=dark" alt="shehanpeiris4803" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehanpeiris4803&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
+### 📊 GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shehanpeiris4803&show_icons=true&locale=en&theme=dark" alt="shehanpeiris4803" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shehanpeiris4803&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
+### 🔥 GitHub Streak
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehanpeiris4803&theme=dark" alt="shehanpeiris4803" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehanpeiris4803&theme=dark" alt="GitHub Streak" />
 </p>
