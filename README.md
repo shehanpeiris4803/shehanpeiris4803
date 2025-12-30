@@ -1,16 +1,23 @@
 <h3 align="center">Every line of code is a potential attack surface! Every decision a security policy!</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shehanpeiris4803&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
+  <img src="https://komarev.com/ghpvc/?username=shehanpeiris4803&label=Profile%20views&color=0e75b6&style=flat" alt="shehanpeiris4803" />
 </p>
 
-<!-- GitHub Trophies - This requires the GitHub Actions workflow to be set up -->
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehanpeiris4803" alt="shehanpeiris4803" /></a> </p> -->
+<!-- GitHub Trophies - Remove comment if you want to use this -->
+<!-- <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehanpeiris4803" alt="shehanpeiris4803" /></a></p> -->
 
-## 📬 How to reach me
-**Email:** shehandeshapriya2005@gmail.com
+## 🔥 About Me
 
-## 🌐 Connect with me
+> **"Learning to secure the future, while gaming to own the present! 👾"**
+
+- 🔒 **Exploring network security, penetration testing & Linux systems** 💻
+- ⚡ **Building skills one exploit at a time** 🚀
+- 📚 **Always learning new tools, techniques, and attack vectors** 🛡️
+- 📩 **How to reach me:** `shehandeshapriya2005@gmail.com`
+
+## 🌐 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/shehan-peiris" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -24,6 +31,7 @@
 </p>
 
 ## 💻 Languages and Tools
+
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -64,14 +72,15 @@
 </p>
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehanpeiris4803&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehanpeiris4803&show_icons=true&locale=en&layout=compact&theme=dark" alt="shehanpeiris4803" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shehanpeiris4803&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shehanpeiris4803&show_icons=true&locale=en&theme=dark" alt="shehanpeiris4803" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehanpeiris4803&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehanpeiris4803&theme=dark" alt="shehanpeiris4803" />
 </p>
