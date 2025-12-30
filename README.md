@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Attackers+innovate+faster+%21%21+Defenders+must+think+deeper+%21%21" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+<p align="left">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=shehanpeiris4803&label=Profile%20views&color=00FF00&style=flat" alt="Profile Views" />
 </p>
 
