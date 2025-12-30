@@ -1,6 +1,8 @@
+<!-- Banner Section -->
 <p align="center">
-  <img src="https://i.giphy.com/media/l4JyQqyt9S1WTiE6c/giphy.gif" alt="Cybersecurity Banner" width="100%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVtYjRmMXMzb3VuOTMxMW13MDQ5cm02Z3BzM2FkbjVlN2pnNGhwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%" height="400">
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&width=500&lines=SHEHAN+here+%F0%9F%91%88" />
