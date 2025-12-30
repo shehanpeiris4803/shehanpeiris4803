@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Every+line+of+code+is+a+potential+attack+surface!;Every+decision+a+security+policy!" alt="Typing Title" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shehanpeiris4803&label=Profile%20views&color=00FF00&style=flat" alt="Profile Views" />
@@ -130,11 +133,7 @@
 <p align="center">
   <code>Metasploit</code> • <code>Wireshark</code> • <code>Nmap</code> • <code>Burp Suite</code> • <code>John the Ripper</code>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=Complex+systems+fail+in+simple+ways" />
-</p>
+>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
-</p>
+
 
