@@ -16,20 +16,20 @@
 
 ## <div align="center">🔥 About Me</div>
 
-<p align="center">
-  <i>"Learning to secure the future, while gaming to own the present! 👾"</i><br><br>
+<p align="left">
+  <b>"Learning to secure the future, while gaming to own the present! 👾"</b><br><br>
   🔒 <b>Exploring network security, penetration testing & Linux systems</b> 💻<br>
   ⚡ <b>Building skills one exploit at a time</b> 🚀<br>
   📚 <b>Always learning new tools, techniques, and attack vectors</b> 🛡️
 </p>
 
-## <div align="center">📬 Contact</div>
+## <div align="left">📬 Contact</div>
 
-<p align="center">
+<p align="left">
   📩 <b>Email:</b> <code>shehandeshapriya2005@gmail.com</code>
 </p>
 
-## <div align="center">🌐 Connect with Me</div>
+## <div align="left">🌐 Connect with Me</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/shehan-peiris" target="_blank">
