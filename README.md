@@ -4,16 +4,16 @@
 </p>
 
 
-<p align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&width=500&lines=SHEHAN+here+%F0%9F%91%88" />
-</p>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Attackers+innovate+faster+%21%21+Defenders+must+think+deeper+%21%21" />
 </p>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" height="200"/>   
 </p>
 
 <p align="left">
@@ -32,8 +32,10 @@
 ## 📬 Contact
 
 <p align="left">
-  📩 <b>Email:</b> <code>shehandeshapriya2005@gmail.com</code>
+  📩 <b>How to reach me: </b> shehandeshapriya2005@gmail.com
 </p>
+
+
 
 ## 🌐 Connect with Me
 
