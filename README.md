@@ -136,7 +136,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/shehanpeiris4803/shehanpeiris4803/main/assets/hacking.gif" alt="Hacking Animation" width="800" height="200" />
 </p>
-<h1 align="center">
-  <span style="color: #00FF00">Every line of code is a potential attack surface!</span><br>
-  <span style="color: #00FF00">Every decision a security policy!</span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=500&lines=Cyber+Security+Undergraduate;Ethical+Hacker+in+Progress;COD+Mobile+Sniper+%F0%9F%8E%AF;Learning.+Breaking.+Securing." />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+</p>
+
