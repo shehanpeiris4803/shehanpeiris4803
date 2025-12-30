@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/shehanpeiris4803/shehanpeiris4803/main/hacking-animation.gif" alt="Hacking Animation" width="800" height="200" />
 </p>
 
-## <div align="center">🔥 About Me</div>
+## <div align="left">🔥 ABOUT ME</div>
 
 <p align="left">
   <b>"Learning to secure the future, while gaming to own the present! 👾"</b><br><br>
@@ -53,9 +53,7 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  </a>
+  
   &nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -93,17 +91,15 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://developer.apple.com/swift/" target="_blank">
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  </a>
+
   &nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
 </p>
 
-<p align="center">
-  <i>Also familiar with: HTML5, Node.js, React, Bash/Shell, Docker, Kubernetes</i>
+<p align="right">
+ <b><i>Also familiar with: HTML5, KAALI LINUX, REACT, Docker,</i></b>
 </p>
 
 ## <div align="center">📊 GitHub Statistics</div>
@@ -125,16 +121,7 @@
 
 ---
 
-### <div align="center">🎮 Currently Gaming</div>
-<p align="center">
-  <i>"When I'm not securing systems, I'm dominating in-game!"</i>
-</p>
 
-### <div align="center">🛠️ Security Tools I Use</div>
-<p align="center">
-  <code>Metasploit</code> • <code>Wireshark</code> • <code>Nmap</code> • <code>Burp Suite</code> • <code>John the Ripper</code>
-</p>
->
 
 
 
