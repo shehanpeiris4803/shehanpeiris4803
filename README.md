@@ -1,5 +1,10 @@
 <p align="center">
+  <img src="https://i.giphy.com/media/l4JyQqyt9S1WTiE6c/giphy.gif" alt="Cybersecurity Banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&width=500&lines=SHEHAN+here+%F0%9F%91%88" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Attackers+innovate+faster+%21%21+Defenders+must+think+deeper+%21%21" />
@@ -122,6 +127,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehanpeiris4803&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
 </p>
-
----
-
