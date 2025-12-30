@@ -1,20 +1,19 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&width=500&lines=SHEHAN+here+%F0%9F%91%88" />
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Attackers+innovate+faster+%21%21+Defenders+must+think+deeper+%21%21" />
 </p>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" height="200"/>
 </p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shehanpeiris4803&label=Profile%20views&color=00FF00&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shehanpeiris4803/shehanpeiris4803/main/hacking-animation.gif" alt="Hacking Animation" width="800" height="200" />
-</p>
-
-## <div align="left">🔥 ABOUT ME</div>
+## 🔥 ABOUT ME
 
 <p align="left">
   <b>"Learning to secure the future, while gaming to own the present! 👾"</b><br><br>
@@ -23,86 +22,91 @@
   📚 <b>Always learning new tools, techniques, and attack vectors</b> 🛡️
 </p>
 
-## <div align="left">📬 Contact</div>
+## 📬 Contact
 
 <p align="left">
   📩 <b>Email:</b> <code>shehandeshapriya2005@gmail.com</code>
 </p>
 
-## <div align="left">🌐 Connect with Me</div>
+## 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/shehan-peiris" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/shehan.peiris29" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/vXEeXJme" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="Discord" height="40" width="40" />
   </a>
 </p>
 
-## <div align="center">💻 Languages and Tools</div>
+## 💻 Languages and Tools
 
-<p align="center">
+<p align="left">
   <!-- Row 1 -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   </a>
-  &nbsp;&nbsp;
-  
-  &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cs/" target="_blank" title="C#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://golang.org" target="_blank">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
-  <br><br>
-  
-  <!-- Row 2 -->
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+ <!-- Row 2 -->
+  <a href="https://www.java.com" target="_blank" title="Java">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" title="Linux">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.php.net" target="_blank" title="PHP">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
   </a>
-  <br><br>
-  
-  <!-- Row 3 -->
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
-  &nbsp;&nbsp;
-
-  &nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <!-- Row 1 -->
+  <a href="https://developer.apple.com/swift/" target="_blank" title="Swift">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank" title="React">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" title="Docker">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" title="HTML5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   </a>
 </p>
 
-<p align="right">
- <b><i>Also familiar with: HTML5, KAALI LINUX, REACT, Docker,</i></b>
-</p>
-
-## <div align="center">📊 GitHub Statistics</div>
+## 📊 GitHub Statistics
 
 <h3 align="center">📈 Top Languages</h3>
 <p align="center">
@@ -120,8 +124,4 @@
 </p>
 
 ---
-
-
-
-
 
