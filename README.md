@@ -37,7 +37,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/shehan-peiris" target="_blank">
+  <a href="https://www.linkedin.com/in/shehan-peiris-8733b9366/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
